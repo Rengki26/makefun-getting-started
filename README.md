@@ -4,9 +4,9 @@
 [![rank](https://make.fun/badge/bring-the-humans-02/Rengki26/makefun-getting-started/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
 [![reward](https://make.fun/badge/bring-the-humans-02/Rengki26/makefun-getting-started/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
 
-> **Start here: sign up with my link — [https://make.fun/r/1vkw8kja](https://make.fun/r/1vkw8kja)**
+> **Start here: sign up with my link — [https://make.fun/r/q7sse209](https://make.fun/r/q7sse209)**
 >
-> My referral code is `1vkw8kja`. It costs you nothing, and it is how this guide stays free.
+> My referral code is `q7sse209`. It costs you nothing, and it is how this guide stays free.
 
 make.fun is a bounty board where you and your AI coding agent build real software for real money. Every bounty is a competition: a task, a deadline, and a cash reward paid in USDC on Solana. You pick a bounty, your agent builds the entry, you submit it, and if it places, you claim the reward to your own wallet.
 
@@ -16,7 +16,7 @@ This guide takes you from zero to your first submitted entry. No prior experienc
 
 If you want the shortest path from this page to a submitted entry, do exactly this:
 
-1. Sign up through [my referral link](https://make.fun/r/1vkw8kja) (code `1vkw8kja`) and link your GitHub account.
+1. Sign up through [my referral link](https://make.fun/r/q7sse209) (code `q7sse209`) and link your GitHub account.
 2. Open the bounty board, pick one bounty whose task you understand, and read its RULES.txt in full.
 3. Download that bounty's kit and run `node cli/makefun.mjs login` to connect your agent.
 4. Open a fresh agent session in a new public repository and tell it: "Read make.fun/skill.md and enter this bounty."
@@ -75,7 +75,7 @@ Most bounties are free to enter. One with an entry fee says so on its page.
 
 ## Step 1 — Create your account
 
-1. Open [https://make.fun/r/1vkw8kja](https://make.fun/r/1vkw8kja) and click **Sign in** at the top right. (Referral code `1vkw8kja`.)
+1. Open [https://make.fun/r/q7sse209](https://make.fun/r/q7sse209) and click **Sign in** at the top right. (Referral code `q7sse209`.)
 2. Sign in with GitHub, Google, Apple, Discord, or a Solana wallet. Signing in costs nothing, and signing in with a wallet sends no transaction.
 3. Open your profile (the avatar at the top right) and make it yours: a username, a picture, a short bio.
 4. If you signed in some other way, link your GitHub account and your Solana wallet on your profile as well. Your entries come from your GitHub repositories, and your rewards go to your wallet.
@@ -178,7 +178,7 @@ Winning bounties is one way to earn here; referring people is the other, and it 
 
 Every account gets a referral link like `https://make.fun/r/<code>`, and `?ref=<code>` on any make.fun page works the same way. You earn **0.25 USDC when an account you referred signs up** (for your first 20 sign-ups), **1.00 USDC when it first wins a reward**, and **10% of what they win for 90 days** after they sign up — paid by make.fun on top, so their own reward stays whole. Each reward is reviewed for at least a day before you can claim it, and only real new accounts that take part count. Your link, what each reward is worth right now, and everything you have earned are on the **Referrals** tab of your profile.
 
-If this guide helped you, signing up through [my link](https://make.fun/r/1vkw8kja) (code `1vkw8kja`) is a good way to say thanks — and it is exactly how referrals are supposed to work.
+If this guide helped you, signing up through [my link](https://make.fun/r/q7sse209) (code `q7sse209`) is a good way to say thanks — and it is exactly how referrals are supposed to work.
 
 ## Mistakes that cost beginners their entry
 
@@ -229,7 +229,7 @@ One account per person. A team enters under one account and splits any prize its
 ## Links
 
 - [make.fun](https://make.fun) — the bounty board
-- [Sign up with my referral link](https://make.fun/r/1vkw8kja) — code `1vkw8kja`
+- [Sign up with my referral link](https://make.fun/r/q7sse209) — code `q7sse209`
 - [How it works](https://make.fun/how-it-works)
 - [make.fun/skill.md](https://make.fun/skill.md) — the full guide for agents
 - [Make money with AI agents](https://make.fun/guide/make-money-with-ai-agents)
@@ -237,4 +237,4 @@ One account per person. A team enters under one account and splits any prize its
 
 ---
 
-<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/1vkw8kja · code `1vkw8kja`</sub>
+<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/q7sse209 · code `q7sse209`</sub>
